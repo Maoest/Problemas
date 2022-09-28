@@ -1,0 +1,24 @@
+#EJERCICIO CAJERO-MAURICIO MORA
+#Realice un programa que le permita ingresar al usuario una contraseña y por medio de esta 
+#poder acceder al CAJERO. 
+
+#En el instante en el que se cree el usuario(CONTRASEÑA), la persona tendra la 
+#posibilidad de acceder al CAJERO y asi mismo ingresar un dinero en especifico(el usuario da 
+#el valor que desee a su CUENTA). 
+
+#Cuando se tengA esto, el programa debe permitir mostrar un menu en el 
+#se pueda acceder a varias posibilidades que son:
+    #1.INGRESAR MAS DINERO
+    #2.RETIRAR DINERO
+    #3.ELIMINAR CONTRASEÑA(USUARIO) Y RETIRAR TODO EL DINERO
+    #4.SALIR
+    
+#Cada una de estas opciones debe realizarce por medio del programa. Es decir si la persona escoge opcion 1
+#1.INGRESAR DINERO:la persona ingresara y esta sumara al dinero que tenia prestablecida
+
+#2.RETIRAR DINERO: La persona retirar el dinero y se vera reflejado en si dinero establecido 
+
+#3.ELIMINAR CONTRASEÑA(USUARIO) Y RETIRAR TODO EL DINERO: Seelimina ya lacuenta creada y le permite al usuario 
+#volver a crear una cuenta desde cero
+
+#4.SALIR:sale del programa y agradece por el servicio prestado
